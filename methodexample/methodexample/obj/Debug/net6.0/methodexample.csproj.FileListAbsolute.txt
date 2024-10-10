@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\method\methodexample\methodexample\bin\Debug\net6.0\methodexample.exe
+C:\Users\user\Desktop\method\methodexample\methodexample\bin\Debug\net6.0\methodexample.deps.json
+C:\Users\user\Desktop\method\methodexample\methodexample\bin\Debug\net6.0\methodexample.runtimeconfig.json
+C:\Users\user\Desktop\method\methodexample\methodexample\bin\Debug\net6.0\methodexample.dll
+C:\Users\user\Desktop\method\methodexample\methodexample\bin\Debug\net6.0\methodexample.pdb
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.AssemblyInfo.cs
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.dll
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\refint\methodexample.dll
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.pdb
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\methodexample.genruntimeconfig.cache
+C:\Users\user\Desktop\method\methodexample\methodexample\obj\Debug\net6.0\ref\methodexample.dll
